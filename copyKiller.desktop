@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=CopyKiller
+Comment=Remove the same files
+Exec=/usr/bin/CopyKiller/main.py
+Terminal=false
+Type=Application
+Icon=/usr/bin/CopyKiller/garbage.png
