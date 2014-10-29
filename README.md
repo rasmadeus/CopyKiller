@@ -1,6 +1,6 @@
 About
 ==========
-This programm remove any file's dublicate from starting dir.
+This programm removes any file's dublicate from starting dir.
 Tools
 =====
 - Python 3.3
